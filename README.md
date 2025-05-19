@@ -56,5 +56,5 @@ To build an intuitive and responsive virtual classroom where students and instru
 
 ---
 
-## 📁 Project Structure
+
 
